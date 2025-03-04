@@ -1,3 +1,6 @@
 [submodule "dp"]
 	path = dp
 	url = https://github.com/dzibukalexander/dp.git
+[submodule "thesis-dev"]
+	path = thesisDevelopment
+	url = https://github.com/DopplerCore/thesisDevelopment.git
