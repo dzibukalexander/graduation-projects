@@ -4,3 +4,6 @@
 [submodule "thesis-dev"]
 	path = thesisDevelopment
 	url = https://github.com/DopplerCore/thesisDevelopment.git
+[submodule "Diplom"]
+	path = Diplom
+	url = https://github.com/Ilya-Karpovich/Diplom.git
